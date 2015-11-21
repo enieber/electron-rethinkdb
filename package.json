@@ -1,0 +1,22 @@
+{
+  "name": "electron",
+  "version": "0.1.1",
+  "main": "app/main.js",
+  "description": "electron with rethinkdb",
+  "scripts":{
+    "start":"electron app/"
+  },
+  "keywords": [
+    "electron",
+    "rethinkdb"
+  ],
+  "author": "Enieber <eniebercunha@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+   "rethinkdb": "^2.2.0"
+  },
+  "devDependencies": {    
+    "electron-prebuilt": "^0.35.0",
+    "fs-jetpack": "^0.7.0"  
+  }
+}

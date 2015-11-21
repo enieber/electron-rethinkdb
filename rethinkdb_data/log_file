@@ -1,0 +1,59 @@
+2015-11-20T22:46:03.169446697 0.384370s notice: Recursively removing directory /home/enieber/electron/rethinkdb_data/tmp
+2015-11-20T22:46:03.191733434 0.406656s notice: Initializing directory /home/enieber/electron/rethinkdb_data
+2015-11-20T22:46:03.191859187 0.406781s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/enieber/electron/rethinkdb_data' did not already exist or is empty.)
+2015-11-20T22:46:03.191916863 0.406839s notice: Running rethinkdb 2.1.5-2 (GCC 4.9.2)...
+2015-11-20T22:46:03.196788235 0.411714s notice: Running on Linux 3.19.0-32-generic x86_64
+2015-11-20T22:46:03.196913018 0.411836s notice: Loading data from directory /home/enieber/electron/rethinkdb_data
+2015-11-20T22:46:03.636420303 0.851343s info: Automatically using cache size of 428 MB
+2015-11-20T22:46:03.637344473 0.852267s notice: Listening for intracluster connections on port 29015
+2015-11-20T22:46:03.687607981 0.902530s notice: Listening for client driver connections on port 28015
+2015-11-20T22:46:03.687905386 0.902828s notice: Listening for administrative HTTP connections on port 8080
+2015-11-20T22:46:03.687912353 0.902834s notice: Listening on addresses: 127.0.0.1, ::1
+2015-11-20T22:46:03.687912950 0.902835s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-11-20T22:46:03.687916131 0.902838s notice: Server ready, "enieber_0st" e2b4f1c3-39da-4631-b940-66ccd15838d0
+2015-11-20T22:46:06.892396474 4.107319s notice: A newer version of the RethinkDB server is available: 2.2.1. You can read the changelog at <https://github.com/rethinkdb/rethinkdb/releases>.
+2015-11-20T22:46:12.308660358 9.523583s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2015-11-20T22:46:12.308845832 9.523768s notice: Shutting down client connections...
+2015-11-20T22:46:12.308985596 9.523908s notice: All client connections closed.
+2015-11-20T22:46:12.308990989 9.523913s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2015-11-20T22:46:12.338299930 9.553223s notice: Storage engine shut down.
+2015-11-20T22:46:14.578726283 0.040569s notice: Running rethinkdb 2.1.5-2 (GCC 4.9.2)...
+2015-11-20T22:46:14.585525650 0.047371s notice: Running on Linux 3.19.0-32-generic x86_64
+2015-11-20T22:46:14.585640705 0.047484s notice: Loading data from directory /home/enieber/electron/rethinkdb_data
+2015-11-20T22:46:14.680278861 0.142123s info: Automatically using cache size of 437 MB
+2015-11-20T22:46:14.681695365 0.143539s notice: Listening for intracluster connections on port 29015
+2015-11-20T22:46:14.685072665 0.146916s notice: Listening for client driver connections on port 28015
+2015-11-20T22:46:14.685256650 0.147100s notice: Listening for administrative HTTP connections on port 8080
+2015-11-20T22:46:14.685262511 0.147105s notice: Listening on addresses: 127.0.0.1, ::1
+2015-11-20T22:46:14.685265644 0.147109s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-11-20T22:46:14.685268687 0.147112s notice: Server ready, "enieber_0st" e2b4f1c3-39da-4631-b940-66ccd15838d0
+2015-11-20T22:46:16.062910192 1.524754s notice: A newer version of the RethinkDB server is available: 2.2.1. You can read the changelog at <https://github.com/rethinkdb/rethinkdb/releases>.
+2015-11-20T22:46:40.429650251 25.891494s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2015-11-20T22:46:40.430558866 25.892402s notice: Shutting down client connections...
+2015-11-20T22:46:40.430676254 25.892520s notice: All client connections closed.
+2015-11-20T22:46:40.430682682 25.892526s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2015-11-20T22:46:40.431270714 25.893114s notice: Storage engine shut down.
+2015-11-20T22:47:11.731527959 0.023080s notice: Running rethinkdb 2.1.5-2 (GCC 4.9.2)...
+2015-11-20T22:47:11.745973660 0.037529s notice: Running on Linux 3.19.0-32-generic x86_64
+2015-11-20T22:47:11.746082794 0.037635s notice: Loading data from directory /home/enieber/electron/rethinkdb_data
+2015-11-20T22:47:11.856644846 0.148197s info: Automatically using cache size of 415 MB
+2015-11-20T22:47:11.861966080 0.153518s notice: Listening for intracluster connections on port 29015
+2015-11-20T22:47:11.866709935 0.158262s notice: Listening for client driver connections on port 28015
+2015-11-20T22:47:11.866955634 0.158508s notice: Listening for administrative HTTP connections on port 8080
+2015-11-20T22:47:11.866959813 0.158512s notice: Listening on addresses: 127.0.0.1, ::1
+2015-11-20T22:47:11.866960440 0.158512s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-11-20T22:47:11.866963563 0.158516s notice: Server ready, "enieber_0st" e2b4f1c3-39da-4631-b940-66ccd15838d0
+2015-11-20T22:47:13.249412645 1.540965s notice: A newer version of the RethinkDB server is available: 2.2.1. You can read the changelog at <https://github.com/rethinkdb/rethinkdb/releases>.
+2015-11-20T23:03:56.568227342 1004.859780s info: Table 26088b3b-7217-4820-8412-6b8dfc631644: Added replica on this server.
+2015-11-20T23:03:58.009268026 1006.300821s info: Table 26088b3b-7217-4820-8412-6b8dfc631644: Starting a new Raft election for term 1.
+2015-11-20T23:03:58.062362682 1006.353915s info: Table 26088b3b-7217-4820-8412-6b8dfc631644: This server is Raft leader for term 1. Latest log index is 0.
+2015-11-20T23:51:23.175728565 3851.467281s info: Table a6bcffcc-2d63-4689-870e-44332a62e67d: Added replica on this server.
+2015-11-20T23:51:24.615417400 3852.906970s info: Table a6bcffcc-2d63-4689-870e-44332a62e67d: Starting a new Raft election for term 1.
+2015-11-20T23:51:24.676811475 3852.968364s info: Table a6bcffcc-2d63-4689-870e-44332a62e67d: This server is Raft leader for term 1. Latest log index is 0.
+2015-11-21T00:46:17.624161441 7145.915715s notice: Someone asked for the nonwhitelisted file "/built/bundle.js".  If this should be accessible, add it to the static web assets.
+2015-11-21T00:46:17.624265512 7145.915818s notice: Someone asked for the nonwhitelisted file "/webpack-dev-server.js".  If this should be accessible, add it to the static web assets.
+2015-11-21T01:36:27.706484924 10155.998038s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2015-11-21T01:36:27.706670343 10155.998223s notice: Shutting down client connections...
+2015-11-21T01:36:27.706896307 10155.998449s notice: All client connections closed.
+2015-11-21T01:36:27.706904577 10155.998457s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2015-11-21T01:36:27.732448205 10156.024001s notice: Storage engine shut down.
